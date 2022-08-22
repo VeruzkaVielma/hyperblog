@@ -1,16 +1,9 @@
 body
 {
+    background: black;
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    font-family: Courier;
-=======
     font-family: Arial;
->>>>>>> 52642db (Finalizada la cabecera con diseno azul)
-=======
-    font-family: Arial;
->>>>>>> 60c9dc3 (Volvi a una tipografia menos controversial)
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -24,6 +17,12 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -48,5 +47,6 @@ body
 }
 #post
 {
+    background: white;
     padding: 1em;
 }
