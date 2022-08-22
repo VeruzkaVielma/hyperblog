@@ -2,15 +2,7 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    font-family: Courier;
-=======
     font-family: Arial;
->>>>>>> 52642db (Finalizada la cabecera con diseno azul)
-=======
-    font-family: Arial;
->>>>>>> 60c9dc3 (Volvi a una tipografia menos controversial)
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -49,4 +41,9 @@ body
 #post
 {
     padding: 1em;
+}
+#footer
+{
+    background: #777;
+    color: white;
 }
