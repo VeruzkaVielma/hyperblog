@@ -9,5 +9,6 @@ Un blog increible para el [Curso de Gut y Github](http://platzi.com/clases/1557-
 - El verdadero amor por las buenas pract      .
 - Trucos muy locos del profesor Freddy Vega.
 - Las personalidades multiple  de Freddy.
+- Creado por Veru para practicar
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Disenado  para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](http://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/). 
